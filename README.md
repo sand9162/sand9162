@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm [Your Name]
+# 👋 Hey there! I'm Sandeep Sahdeo
 
 🚀 DevOps Enthusiast | Cloud Explorer | Startup Hustler  
 🎓 Intern @InternArmy | Building things that solve real-world problems
